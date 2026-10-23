@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "name": "抖音",
+      "domains": [
+        "douyin.com",
+        "*.douyin.com",
+        "*.iesdouyin.com",
+        "*.tiktokv.com",
+        "*.douyinvod.com",
+        "*.douyinpic.com",
+        "*.douyinstatic.com",
+        "*.amemv.com",
+        "*.douyincdn.com",
+        "*.snssdk.com"
+      ]
+    },
+    {
+      "name": "快手",
+      "domains": [
+        "kuaishou.com",
+        "*.kuaishou.com",
+        "*.gifshow.com",
+        "*.kwimgs.com",
+        "*.yximgs.com",
+        "*.kwaicdn.com"
+      ]
+    },
+    {
+      "name": "哔哩哔哩",
+      "domains": [
+        "bilibili.com",
+        "*.bilibili.com",
+        "*.biliapi.net",
+        "*.hdslb.com",
+        "*.bilivideo.com",
+        "*.biliimg.com",
+        "*.acgvideo.com",
+        "*.biligame.com",
+        "*.biligame.net"
+      ]
+    },
+    {
+      "name": "小红书",
+      "domains": [
+        "xiaohongshu.com",
+        "*.xiaohongshu.com",
+        "*.xhscdn.com",
+        "*.xhslink.com"
+      ]
+    },
+    {
+      "name": "微博",
+      "domains": [
+        "weibo.com",
+        "*.weibo.com",
+        "*.weibo.cn",
+        "*.sinaimg.cn",
+        "*.sinajs.cn",
+        "*.wbimg.cn"
+      ]
+    },
+    {
+      "name": "QQ和微信(一起封)",
+      "domains": [
+        "qq.com",
+        "*.qq.com",
+        "*.wechat.com",
+        "*.servicewechat.com",
+        "*.weixinbridge.com"
+      ]
+    },
+    {
+      "name": "王者荣耀",
+      "domains": [
+        "pvp.qq.com",
+        "*.pvp.qq.com",
+        "*.gcloudcs.com",
+        "*.tencentgames.com"
+      ]
+    },
+    {
+      "name": "和平精英",
+      "domains": [
+        "gp.qq.com",
+        "*.gp.qq.com",
+        "*.pubgmobile.com",
+        "*.proximabeta.com",
+        "*.igamecj.com"
+      ]
+    },
+    {
+      "name": "原神",
+      "domains": [
+        "mihoyo.com",
+        "*.mihoyo.com",
+        "*.hoyoverse.com",
+        "yuanshen.com",
+        "*.yuanshen.com"
+      ]
+    },
+    {
+      "name": "蛋仔派对",
+      "domains": [
+        "party.163.com",
+        "*.party.163.com"
+      ]
+    },
+    {
+      "name": "网易云音乐",
+      "domains": [
+        "music.163.com",
+        "*.music.163.com",
+        "*.music.126.net"
+      ]
+    },
+    {
+      "name": "爱奇艺",
+      "domains": [
+        "iqiyi.com",
+        "*.iqiyi.com",
+        "*.iqiyipic.com",
+        "*.qiyi.com",
+        "*.qiyipic.com"
+      ]
+    },
+    {
+      "name": "腾讯视频",
+      "domains": [
+        "v.qq.com",
+        "*.video.qq.com",
+        "*.wetv.vip",
+        "*.wetvinfo.com"
+      ]
+    },
+    {
+      "name": "优酷",
+      "domains": [
+        "youku.com",
+        "*.youku.com",
+        "*.ykimg.com"
+      ]
+    },
+    {
+      "name": "芒果TV",
+      "domains": [
+        "mgtv.com",
+        "*.mgtv.com",
+        "*.hitv.com"
+      ]
+    },
+    {
+      "name": "虎牙直播",
+      "domains": [
+        "huya.com",
+        "*.huya.com",
+        "*.msstatic.com"
+      ]
+    },
+    {
+      "name": "斗鱼直播",
+      "domains": [
+        "douyu.com",
+        "*.douyu.com",
+        "*.douyucdn.cn",
+        "*.douyutv.com"
+      ]
+    },
+    {
+      "name": "百度网盘",
+      "domains": [
+        "pan.baidu.com",
+        "*.pan.baidu.com",
+        "*.baidupcs.com",
+        "*.pcs.baidu.com"
+      ]
+    },
+    {
+      "name": "Steam",
+      "domains": [
+        "steampowered.com",
+        "*.steampowered.com",
+        "*.steamstatic.com",
+        "*.steamcommunity.com",
+        "*.steamserver.net",
+        "*.steamcontent.com"
+      ]
+    },
+    {
+      "name": "我的世界",
+      "domains": [
+        "mc.163.com",
+        "*.mc.163.com",
+        "minecraft.net",
+        "*.minecraft.net",
+        "*.minecraftservices.com",
+        "*.mojang.com"
+      ]
+    }
+  ]
+}
